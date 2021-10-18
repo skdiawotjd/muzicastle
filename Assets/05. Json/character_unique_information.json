@@ -1,0 +1,22 @@
+{
+  "character_unique_info": [
+    {
+      "code": "0",
+      "position": "0",
+      "ap": "10",
+      "hp": "100"
+    },
+    {
+      "code": "1",
+      "position": "1",
+      "ap": "15",
+      "hp": "80"
+    },
+    {
+      "code": "2",
+      "position": "2",
+      "ap": "20",
+      "hp": "50"
+    }
+  ]
+}
